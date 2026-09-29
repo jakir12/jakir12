@@ -18,7 +18,6 @@ I am a Senior Full-Stack Developer currently working at **Wipro**, specializing 
 
 - 🔭 **Currently focused on:** Building secure and scalable FinTech & Enterprise architectures.
 - 💡 **Engineering Interests:** System Architecture, RESTful APIs, Loan Automation, and Performance Optimization.
-- 🏆 **Achievements:** Proud holder of an **Oracle Certification**, validating my expertise in enterprise database management and complex SQL architectures.
 
 
 ## 🏆 Certifications & Achievements
