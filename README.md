@@ -20,6 +20,10 @@ I am a Senior Full-Stack Developer currently working at **Wipro**, specializing 
 - 💡 **Engineering Interests:** System Architecture, RESTful APIs, Loan Automation, and Performance Optimization.
 - 🏆 **Achievements:** Proud holder of an **Oracle Certification**, validating my expertise in enterprise database management and complex SQL architectures.
 
+## 🏆 Certifications & Achievements
+* 🥇 **Oracle APEX Cloud Developer Certified Professional:** Officially certified by Oracle University, validating expertise in enterprise database management, APEX development, and secure cloud data architectures.
+* 💼 **Banking Automation Expert:** Successfully designed and implemented critical automation workflows for Core Banking, CLS, and Loan Rescheduling.
+
 ## 🛠️ Tech Stack
 
 ### Frontend
